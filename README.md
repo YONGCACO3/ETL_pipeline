@@ -17,6 +17,6 @@ The pipeline is designed to run daily, and the data is loaded into PostgreSQL. T
 The ELT pipeline is shown below:
 ![Airflow_graph](/Airflow_graph.jpg "Screenshot of the Airflow_graph")
 The tablin the data sink is shown below:
-![Database](/Screenshot of DB.jpg "Screenshot of the Database")
+![Database](/Screenshot_DB "Screenshot of the Database")
 
 
