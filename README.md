@@ -12,7 +12,7 @@ The project utilizes the following components:
 - **SQLAlchemy**: Employed to connect to and interact with a PostgreSQL database.
 - **Confluent Kafka**: Demonstrated as a potential integration for data streaming. Note: You need a running Kafka broker and a defined topic for this section.
 
-## The Outcme
+## The Outcome
 The pipeline is configured to run on a daily basis, with the resulting data being loaded into PostgreSQL. This data is subsequently accessible for analysis and visualization.
 
 The ELT pipeline is depicted in the following graph:
